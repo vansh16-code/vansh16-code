@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vansh 👋</h1>
+<h1 align="center">Hi there, I'm Vansh Mahajan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Lifelong+Learner;Problem+Solver" alt="Typing animation" />
