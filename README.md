@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building with **Django** and **FastAPI**
-- 🌱 Learning **system design**, **AI integrations**, and **React best practices**
-- 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**
-- 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!
-- 💡 Love building tools for **writers**, **founders**, and **indie makers**
+- 🔭 Currently building with **Django** and **FastAPI**  
+- 🌱 Learning **system design**, **AI integrations**, and **React best practices**  
+- 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**  
+- 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!  
+- 💡 Love building tools for **writers**, **founders**, and **indie makers**  
 - 📫 Reach me at: **vanshmahajan2023@gmail.com**
 
 ---
@@ -34,12 +34,10 @@
 
 ---
 
-### 🔗 Connect With Me
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:vanshmahajan2023@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
 ---
