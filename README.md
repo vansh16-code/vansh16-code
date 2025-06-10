@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building with **Django** and **FastAPI**  
+- 🔭 Currently building with **Django** and **FastAPI**  and **React**
 - 🌱 Learning **system design**, **AI integrations**, and **React best practices**  
 - 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**  
 - 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!  
