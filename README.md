@@ -20,7 +20,12 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,postgres,git,vscode,numpy,pandas,jupyter,kaggle" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,postgres,git,vscode" /><br><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
