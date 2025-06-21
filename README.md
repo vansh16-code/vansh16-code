@@ -43,7 +43,7 @@
 
 <!-- You must have WakaTime enabled and public for this to work -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vansh16_code&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/badge/user/ba31ceea-d2af-4284-994a-b4d270e1f184.svg" alt="WakaTime Stats" />
 </p>
 
 ---
