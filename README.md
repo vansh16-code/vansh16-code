@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building with **Django** and **FastAPI**  and **React**
-- 🌱 Learning **system design**, **AI integrations**, and **React best practices**  
-- 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**  
-- 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!  
-- 💡 Love building tools for **writers**, **founders**, and **indie makers**  
+- 🔭 Currently building with **Django**, **FastAPI**, and **React**
+- 🌱 Learning **system design**, **AI integrations**, and **React best practices**
+- 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**
+- 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!
+- 💡 Love building tools for **writers**, **founders**, and **indie makers**
 - 📫 Reach me at: **vanshmahajan2023@gmail.com**
 
 ---
@@ -20,7 +20,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,postgres,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,postgres,git,vscode,numpy,pandas,jupyter,kaggle" />
 </p>
 
 ---
@@ -30,6 +30,15 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⏱ WakaTime Stats
+
+<!-- You must have WakaTime enabled and public for this to work -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vansh16-code&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -53,6 +62,4 @@
 
 ---
 
-<!---
-vansh16-code/vansh16-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<!--- vansh16-code/vansh16-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
