@@ -37,7 +37,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight&cache_seconds=60" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vansh16-code&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
