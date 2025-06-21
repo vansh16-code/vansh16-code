@@ -6,6 +6,15 @@
 
 ---
 
+### ⏱ WakaTime Stats
+
+<!-- You must have WakaTime enabled and public for this to work -->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/ba31ceea-d2af-4284-994a-b4d270e1f184.svg" alt="WakaTime Stats" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently building with **Django**, **FastAPI**, and **React**
@@ -40,19 +49,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh16-code&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
+
 
 ---
 
-### ⏱ WakaTime Stats
-
-<!-- You must have WakaTime enabled and public for this to work -->
-<p align="center">
-  <img src="https://wakatime.com/badge/user/ba31ceea-d2af-4284-994a-b4d270e1f184.svg" alt="WakaTime Stats" />
-</p>
 
 ---
 
