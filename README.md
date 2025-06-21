@@ -6,15 +6,6 @@
 
 ---
 
-### ⏱ WakaTime Stats
-
-<!-- You must have WakaTime enabled and public for this to work -->
-<p align="center">
-  <img src="https://wakatime.com/badge/user/ba31ceea-d2af-4284-994a-b4d270e1f184.svg" alt="WakaTime Stats" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently building with **Django**, **FastAPI**, and **React**
