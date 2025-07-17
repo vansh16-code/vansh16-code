@@ -8,16 +8,19 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building with **Django**, **FastAPI**, and **React**
-- 🌱 Learning **system design**, **AI integrations**, and **React best practices**
-- 👀 Passionate about **developer tooling**, **B2B SaaS**, and **creative tech**
-- 💬 Ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, and more!
-- 💡 Love building tools for **writers**, **founders**, and **indie makers**
-- 📫 Reach me at: **vanshmahajan2023@gmail.com**
+As a passionate **Full-Stack Developer**, I thrive on building robust and scalable applications. My focus is on creating impactful solutions, particularly for **writers, founders, and indie makers**. I'm a firm believer in the power of **developer tooling** and **B2B SaaS** to streamline workflows and empower creators.
+
+- 🔭 Currently, I'm building exciting projects with **Django**, **FastAPI**, and **React**.
+- 🌱 I'm continuously expanding my expertise in **system design**, **AI integrations**, and **React best practices** to stay ahead in the ever-evolving tech landscape.
+- 👀 My interests span across **developer tooling**, **B2B SaaS**, and **creative tech** solutions.
+- 💬 Feel free to ask me about **Python**, **React**, **PostgreSQL**, **Bootstrap**, or anything else related to web development!
+- 📫 You can reach me directly at: **vanshmahajan2023@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ My Tech Stack
+
+I leverage a diverse set of technologies to bring ideas to life:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,postgres,git,vscode" /><br><br>
@@ -30,43 +33,39 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=vansh16-code&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight&cache_seconds=60" alt="GitHub Stats" />
 
-  <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=vansh16-code&theme=tokyonight" />
-
-
-  </p> 
-
-
-
+  <img src="https://streak-stats.demolab.com/?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-
----
-
-### 📫 Contact
+### 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:vanshmahajan2023@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  </p>
 
 ---
 
 <details>
 <summary>💬 Fun Developer Quotes</summary>
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson  
-> “Simplicity is the soul of efficiency.” – Austin Freeman  
-> “First, solve the problem. Then, write the code.” – John Johnson  
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
+> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 </details>
 
 ---
-
-<!--- vansh16-code/vansh16-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
