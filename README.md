@@ -29,6 +29,7 @@ I leverage a diverse set of technologies to bring ideas to life:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-0177FF?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
