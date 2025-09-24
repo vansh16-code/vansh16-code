@@ -10,10 +10,10 @@
 
 As a passionate **Full-Stack Developer**, I thrive on building robust and scalable applications. My focus is on creating impactful solutions, particularly for **writers, founders, and indie makers**. I'm a firm believer in the power of **developer tooling** and **B2B SaaS** to streamline workflows and empower creators.
 
-- 🔭 Currently, I'm building exciting projects with **Django**, **FastAPI**, and **React**.
-- 🌱 Continuously exploring **system design**, **AI integrations**, and **React best practices**.
+- 🔭 Currently, I'm building exciting projects with **Django**, **FastAPI**, and **Next.js**.
+- 🌱 Continuously exploring **system design**, **AI integrations**, and **TypeScript + Next.js best practices**.
 - 👀 Interests: **developer tooling**, **B2B SaaS**, and **creative tech**.
-- 💬 Ask me about: **Python**, **React**, **Next.js**, **TypeScript**, **PostgreSQL**, or anything web dev!
+- 💬 Ask me about: **Python**, **Next.js**, **TypeScript**, **PostgreSQL**, or anything web dev!
 - 📫 Reach me at: **vanshmahajan2023@gmail.com**
 
 ---
@@ -23,7 +23,7 @@ As a passionate **Full-Stack Developer**, I thrive on building robust and scalab
 I leverage a diverse set of technologies to bring ideas to life:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,next,html,css,bootstrap,postgres,git,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,next,js,html,css,bootstrap,postgres,git,vscode" /><br><br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,8 +56,8 @@ I leverage a diverse set of technologies to bring ideas to life:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight&cache_seconds=60" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vansh16-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
