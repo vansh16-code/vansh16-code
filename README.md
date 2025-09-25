@@ -58,10 +58,6 @@ As a passionate **Full-Stack Developer**, I thrive on building robust and scalab
   <img width="48%" src="https://streak-stats.demolab.com/?user=vansh16-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh16-code&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🏅 GitHub Achievements
