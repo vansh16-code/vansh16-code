@@ -20,8 +20,6 @@ As a passionate **Full-Stack Developer**, I thrive on building robust and scalab
 
 ### ⚙️ My Tech Stack
 
-I leverage a diverse set of technologies to bring ideas to life:
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,next,js,html,css,bootstrap,postgres,git,vscode" /><br><br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -57,10 +55,11 @@ I leverage a diverse set of technologies to bring ideas to life:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vansh16-code&theme=tokyonight)](https://git.io/streak-stats)
+  <img width="48%" src="https://streak-stats.demolab.com/?user=vansh16-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh16-code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
