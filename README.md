@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me
 
-As a passionate **Full-Stack Developer**, I thrive on building robust and scalable applications. My focus is on creating impactful solutions, particularly for **writers, founders, and indie makers**. I'm a firm believer in the power of **developer tooling** and **B2B SaaS** to streamline workflows and empower creators.
+As a passionate **Full-Stack Developer**, I thrive on building robust and scalable applications. My focus is on creating impactful solutions, particularly for **writers, founders, and indie makers**. I strongly believe in the power of **developer tooling** and **B2B SaaS** to empower creators.
 
-- 🔭 Currently, I'm building exciting projects with **Django**, **FastAPI**, and **Next.js**.
-- 🌱 Continuously exploring **system design**, **AI integrations**, and **TypeScript + Next.js best practices**.
-- 👀 Interests: **developer tooling**, **B2B SaaS**, and **creative tech**.
-- 💬 Ask me about: **Python**, **Next.js**, **TypeScript**, **PostgreSQL**, or anything web dev!
+- 🔭 Currently building with **Django**, **FastAPI**, **Go**, and **Next.js**
+- 🌱 Exploring **system design**, **AI integrations**, and **TypeScript best practices**
+- 👀 Interests: **developer tooling, B2B SaaS, creative tech**
+- 💬 Ask me about: **Python, Go, Next.js, TypeScript, PostgreSQL**
 - 📫 Reach me at: **vanshmahajan2023@gmail.com**
 
 ---
@@ -21,41 +21,42 @@ As a passionate **Full-Stack Developer**, I thrive on building robust and scalab
 ### ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,next,js,html,css,bootstrap,postgres,git,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,ts,next,js,html,css,bootstrap,postgres,git,vscode" /><br><br>
+
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-0177FF?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Notable Projects
 
-- 🧠 **[Neurolytics](https://github.com/vansh16-code/neurolytics)** – AI-powered CSV analysis tool with clustering and real-time insights.
-- 🖋️ **[InkPersona](https://github.com/vansh16-code/inkpersona)** – Interview fictional characters to tackle writer’s block with AI-driven interactions.
-- 💸 **[PitchCraft AI](https://github.com/vansh16-code/pitchcraft-ai)** – An AI investor that reviews your pitch and provides strategic, constructive feedback.
-- 🚗 **[Unipool](https://github.com/vansh16-code/unipool)** – Vehicle pooling system tailored for universities to promote eco-friendly commutes.
+- 🧠 **[Neurolytics](https://github.com/vansh16-code/neurolytics)** – AI-powered CSV analysis with clustering and real-time insights  
+- 🖋️ **[InkPersona](https://github.com/vansh16-code/inkpersona)** – Interview fictional characters to overcome writer’s block  
+- 💸 **[PitchCraft AI](https://github.com/vansh16-code/pitchcraft-ai)** – AI investor that reviews startup pitches and provides constructive feedback  
+- 🚗 **[Unipool](https://github.com/vansh16-code/unipool)** – University ride-sharing platform promoting eco-friendly commutes  
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **Winner** at **Ideathon – Technovista 2.0** at **GNDU, Amritsar**
-- 🛠️ **Participant** at **Hack2Hatch Hackathon** at **PEC, Chandigarh**
-- 🌟 Multiple full-stack projects built with AI, analytics, and SaaS-focused design.
+- 🥇 **Winner — Ideathon (Technovista 2.0)** — GNDU, Amritsar  
+- 🛠️ **Participant — Hack2Hatch Hackathon** — PEC, Chandigarh  
+- 🌟 Built multiple full-stack projects combining **AI + analytics + SaaS thinking**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=vansh16-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansh16-code&show_icons=true&theme=tokyonight&cache_seconds=7200" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=vansh16-code&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,7 +64,7 @@ As a passionate **Full-Stack Developer**, I thrive on building robust and scalab
 ### 🏅 GitHub Achievements
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=vansh16-code&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh16-code&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
